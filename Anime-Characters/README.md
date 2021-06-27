@@ -1,5 +1,9 @@
 # [Go to Dataset](https://www.kaggle.com/shanmukh05/anime-names-and-image-generation)
 
+## Dataset Extraction
+- `Beautiful Soup` is used.
+
+More details of Data Extraction can be found in [this notebook](https://github.com/shanmukh05/Datasets/blob/main/Anime-Characters/extract-anime-images.ipynb)
 
 ## Context
 Following dataset contains the names, images and links of anime characters.
